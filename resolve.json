@@ -1,0 +1,52 @@
+[
+    {
+        "sources": [
+            "github.com/AgileCloudLab/gtest.git"
+        ],
+        "major": 1,
+        "method": "semver",
+        "resolver": "git",
+        "name": "gtest"
+    },
+    {
+        "sources": [
+            "github.com/AgileCloudLab/tartarus.git"
+        ],
+        "major": 8,
+        "method": "semver",
+        "resolver": "git",
+        "name": "tartarus"
+    },
+    {
+        "sources": [
+            "github.com/AgileCloudLab/codewrapper.git"
+        ],
+        "major": 7,
+        "method": "semver",
+        "resolver": "git",
+        "name": "codewrapper"
+    },
+    {
+        "name": "minerva",
+        "resolver": "git",
+        "method": "semver",
+        "major": 10,
+        "sources": ["github.com/AgileCloudLab/minerva.git"]
+    },
+    {
+        "name": "harpocrates",
+        "resolver": "git",
+        "method": "semver",
+        "major": 3,
+        "sources": ["github.com/AgileCloudLab/harpocrates.git"]
+    },
+    {
+        "sources": [
+            "github.com/AgileCloudLab/aloha.git"
+        ],
+        "major": 2,
+        "method": "semver",
+        "resolver": "git",
+        "name": "aloha"
+    }    
+]

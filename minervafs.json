@@ -1,0 +1,10 @@
+{
+    "root_folder": "/run/media/tools/Data1/mfs/.minervafs",
+    "code": {
+        "m": 15,
+        "n": 4096,
+        "r": 1,
+        "mgf": 256, 
+        "code_type": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "file_list": "./file_list/vdi_files",
+    "output_dir": "./mnt",
+    "minerva_dir": "/run/media/tools/Data1/mfs",
+    "interval": 100,
+    "result_file": "./results/physical/yavin_vdi_local_mfs.csv"
+}
+
